@@ -12,7 +12,7 @@
         </div>
         <div class="flex flex-wrap items-start justify-end gap-6 sm:gap-8 lg:contents">
           <div class="w-0 flex-auto lg:ml-auto lg:w-auto lg:flex-none lg:self-end">
-            <img src="/src/assets/img/IMG_1120.jpg" alt="" class="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-50 object-cover" />
+            <img src="/src/assets/img/img-1.jpg" alt="" class="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-50 object-cover" />
           </div>
           <div class="contents lg:col-span-2 lg:col-end-2 lg:ml-auto lg:flex lg:w-[37rem] lg:items-start lg:justify-end lg:gap-x-8">
             <div class="order-first flex w-64 flex-none justify-end self-end lg:w-auto">
