@@ -6,8 +6,9 @@
           REABILITAÇÃO ORAL
         </h2>
         <p class="mt-6 text-lg leading-8 text-gray-600">
-          We’re a dynamic group of individuals who are passionate about what we
-          do and dedicated to delivering the best results for our clients.
+          Na INFLÓRI CLÍNICA os profissionais especilistas trabalham no mesmo
+          lugar, para planejar e recuperar sua saúde bucal. Devolvendo um
+          sorriso natural e personalizado pra você.
         </p>
       </div>
     </div>
@@ -15,7 +16,7 @@
   <!-- Image section -->
   <div class="xl:mx-auto xl:max-w-7xl xl:px-8">
     <img
-      src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2832&q=80"
+      src="/src/assets/img/cliente.jpg"
       alt=""
       class="aspect-[5/2] w-full object-cover xl:rounded-3xl"
     />
@@ -23,5 +24,4 @@
 </template>
 
 <script setup>
-
 </script>

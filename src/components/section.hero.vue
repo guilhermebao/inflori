@@ -30,7 +30,7 @@
           <div class="mt-10 flex items-center gap-x-6">
             <a
               title="Enviar mensagem no whatsapp z-50"
-              href="https://wa.me/+5531991035357?text=Olá, gostaria de saber mais sobre o evento Empreendendo com Estratégia."
+              href="https://wa.me/+553175531043?text=Olá, gostaria de saber mais sobre o evento Empreendendo com Estratégia."
               target="_blank"
               class="rounded-md bg-[#128c7e] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#1bc5b2] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#17b3a1]"
               >ENVIE UMA MENSAGEM</a

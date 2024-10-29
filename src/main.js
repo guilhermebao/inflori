@@ -6,7 +6,6 @@ import '@/assets/styles/tailwind.css';
 import App from '@/app.vue';
 import { routes } from '@/routes.js';
 
-
 const router = createRouter({
   history: createWebHistory(import.meta.env.VITE_BASE_PUBLIC_PATH),
   routes,
