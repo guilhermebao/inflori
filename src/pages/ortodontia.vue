@@ -3,20 +3,20 @@
     <header-data />
     <div>
       <!-- Image section -->
-      <div class="xl:mx-auto xl:max-w-7xl xl:px-8 mt-24">
+      <div class="xl:mx-auto xl:max-w-7xl xl:px-8 mt-6">
         <img
           src="/src/assets/img/invisalign.jpg"
           alt=""
           class="aspect-[5/2] w-full object-cover xl:rounded-3xl"
         />
       </div>
-      <div class="bg-white py-24 sm:py-32 xl:mx-auto xl:max-w-7xl xl:px-8 px-6 lg:px-8">
+      <div class="bg-white py-8 sm:py-8 xl:mx-auto xl:max-w-7xl xl:px-8 px-6 lg:px-8">
         <div>
           <div class="mx-auto lg:mx-0">
             <h2
               class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"
             >
-              Como se tornar um cliente INFLORI SELECT.
+              PROTÉSE FIXA – IMPLANTE DENTÁRIO
             </h2>
             <p class="mt-6 text-lg leading-8 text-gray-600">
               É através do Check-Up Bucal, que é dado o primeiro passo para se

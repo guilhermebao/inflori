@@ -3,7 +3,7 @@
     <header-data />
     <div>
       <!-- Image section -->
-      <div class="xl:mx-auto xl:max-w-7xl xl:px-8 mt-24">
+      <div class="xl:mx-auto xl:max-w-7xl xl:px-8 mt-6">
         <img
           src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2832&q=80"
           alt=""
@@ -11,7 +11,7 @@
         />
       </div>
       <div
-        class="bg-white py-24 sm:py-32 xl:mx-auto xl:max-w-7xl xl:px-8 px-6 lg:px-8"
+        class="bg-white py-8 sm:py-8 xl:mx-auto xl:max-w-7xl xl:px-8 px-6 lg:px-8"
       >
         <div>
           <div class="mx-auto lg:mx-0">

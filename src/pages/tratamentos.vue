@@ -10,7 +10,7 @@
           class="aspect-[5/2] w-full object-cover xl:rounded-3xl"
         />
       </div>
-      <div class="bg-white py-24 sm:py-32 xl:mx-auto xl:max-w-7xl xl:px-8 px-6 lg:px-8">
+      <div class="bg-white py-8 sm:py-8 xl:mx-auto xl:max-w-7xl xl:px-8 px-6 lg:px-8">
         <div>
           <div class="mx-auto lg:mx-0">
             <h2

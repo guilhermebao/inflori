@@ -12,7 +12,7 @@
       </div> -->
 
       <div
-        class="bg-white py-24 sm:py-32 xl:mx-auto xl:max-w-7xl xl:px-8 px-6 lg:px-8"
+        class="bg-white py-6 sm:py-8 xl:mx-auto xl:max-w-7xl xl:px-8 px-6 lg:px-8"
       >
         <div>
           <div class="mx-auto lg:mx-0">
@@ -116,7 +116,7 @@
         </div>
 
         <div>
-          <div class="mx-auto lg:mx-0 mt-10">
+          <div class="mx-auto lg:mx-0">
             <h2
               class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl"
             >
