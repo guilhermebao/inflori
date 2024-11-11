@@ -4,7 +4,7 @@ import Lentes from './pages/lentes.vue';
 import Cliente from './pages/cliente.vue';
 import Endodontico from './pages/endodontico.vue';
 import Ortodontia from './pages/ortodontia.vue';
-import Emergencia from './pages/emergencia.vue';
+import Urgencias from './pages/urgencias.vue';
 
 export const routes = [
   { path: '/', component: Index },
@@ -13,7 +13,7 @@ export const routes = [
   { path: '/cliente', component: Cliente },
   { path: '/endodontico', component: Endodontico },
   { path: '/ortodontia', component: Ortodontia },
-  { path: '/emergencia', component: Emergencia },
+  { path: '/urgencias', component: Urgencias },
 ];
 
 export default routes;

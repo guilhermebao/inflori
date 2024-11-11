@@ -29,9 +29,15 @@
           <a
             href="/inflori"
             class="text-sm font-semibold leading-6 text-gray-900 uppercase"
-            >Inflóri clinica</a
-          >
-          <!-- <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Marketplace</a> -->
+            >Inflóri clinica</a>
+            <a
+            href="/urgencias"
+            class="text-sm font-semibold leading-6 text-gray-900 uppercase"
+            >Urgências</a>
+          <a
+            href="/endodontico"
+            class="text-sm font-semibold leading-6 text-gray-900 uppercase"
+            >Canal com microscópio</a>
           <Popover class="relative">
             <PopoverButton
               class="flex items-center gap-x-1 text-sm font-semibold leading-6 text-gray-900 uppercase"
@@ -84,11 +90,7 @@
               </PopoverPanel>
             </transition>
           </Popover>
-          <a
-            href="/cliente"
-            class="text-sm font-semibold leading-6 text-gray-900 uppercase"
-            >Clientes</a
-          >
+          
         </PopoverGroup>
         <div class="hidden lg:flex lg:flex-1 lg:justify-end">
           <!-- <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Log in <span aria-hidden="true">&rarr;</span></a> -->
@@ -191,7 +193,7 @@
               </p>
               <div class="mt-10 flex items-center justify-center gap-x-6">
                 <a
-                  href="https://infloriclinica.com/emergencia"
+                  href="https://infloriclinica.com/urgencias"
                   class="rounded-md bg-[#132035] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#132035ad] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#132035ad]"
                   >SAIBA MAIS</a
                 >
@@ -421,15 +423,11 @@ const navigation = [
 ];
 
 const products = [
-  { name: "Inflóri clinica", href: "/inflori" },
-  { name: "Urgências", href: "/urgencias" },
-  { name: "Canal com microscópio", href: "/endodontico" },
-  { name: "Prótese fixa (Implante)", href: "/implantes" },
-  { name: "Tratamentos", href: "/implantes" },
-  { name: "Clientes", href: "/clientes" },
-  // { name: "Lentes de contato", href: "/lentes" },
-  // { name: "Ortodontia (invisaling)", href: "/ortodontia" },
-  // { name: 'Automations', description: 'Build strategic funnels that will convert', href: '#', icon: ArrowPathIcon },
+  { name: 'Urgências', href: '/urgencias' },
+  { name: 'Canal com microscópio', href: '/endodontico' },
+  { name: 'Prótese fixa / Implante', href: '/implantes' },
+  { name: 'Lentes de contato', href: '/lentes' },
+  { name: 'Ortodontia (invisaling)', href: '/ortodontia' },
 ];
 const callsToAction = [
   { name: "Watch demo", href: "#", icon: PlayCircleIcon },
