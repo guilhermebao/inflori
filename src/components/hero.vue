@@ -271,7 +271,7 @@
               <p class="mt-6 text-lg leading-8 text-white">
                 Resinas Compostas ou Porcelanas? Qual material para o meu caso?
                 Nosso time de especialistas irá te ajudar com cada detalhe e
-                explicação do seu caso. E saida, você terá um sorriso novo!
+                explicação do seu caso. E saiba, você terá um sorriso novo!
               </p>
               <div class="mt-10 flex items-center justify-center gap-x-6">
                 <a

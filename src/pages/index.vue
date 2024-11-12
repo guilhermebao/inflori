@@ -10,9 +10,9 @@
     <contact-button />
     <person />
     <team-sections />
-    <faq-sections />
     <category-previews />
     <category-two-previews />
+    <faq-sections />
     <footer-data />
   </div>
 </template>

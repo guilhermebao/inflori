@@ -24,7 +24,7 @@
 
             <div class="mt-6">
               <img
-                src="/src/assets/img/img-2.jpeg"
+                src="/src/assets/img/img-2.jpg"
                 alt=""
                 class="aspect-[5/2] w-full object-cover xl:rounded-3xl"
               />
@@ -86,6 +86,7 @@
         </div>
       </div>
     </div>
+    <contact-button />
     <footer-data />
   </div>
 </template>
@@ -95,6 +96,7 @@
 import hero from "../components/hero.vue";
 import headerData from "../components/header.data.vue";
 import footerData from "../components/footer.data.vue";
+import contactButton from "../components/contact.button.vue";
 </script>
 
 <style>
