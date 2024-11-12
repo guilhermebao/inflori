@@ -167,9 +167,9 @@
 
     <swiper
       :pagination="{ clickable: true }"
-      :modules="[Navigation, Pagination]"
+      :modules="[Autoplay, Navigation, Pagination]"
       :loop="true"
-      :autoplay="{ delay: 3000, disableOnInteraction: false }"
+      :autoplay="{ delay: 6000, disableOnInteraction: false }"
       navigation
       class="mySwiper"
     >
@@ -413,7 +413,7 @@ import { Swiper, SwiperSlide } from "swiper/vue";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
-import { Navigation, Pagination } from "swiper/modules";
+import { Autoplay, Navigation, Pagination } from "swiper/modules";
 
 const navigation = [
   { name: "Inflóri clinica", href: "/inflori" },
