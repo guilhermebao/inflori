@@ -16,7 +16,7 @@
   <!-- Image section -->
   <div class="xl:mx-auto xl:max-w-7xl xl:px-8">
     <img
-      src="/src/assets/img/cliente.jpg"
+      src="/src/assets/img/img-1-1.jpg"
       alt=""
       class="aspect-[5/2] w-full object-cover xl:rounded-3xl"
     />

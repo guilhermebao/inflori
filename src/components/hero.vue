@@ -169,7 +169,7 @@
       :pagination="{ clickable: true }"
       :modules="[Navigation, Pagination]"
       :loop="true"
-      :autoplay="{ delay: 300, disableOnInteraction: false }"
+      :autoplay="{ delay: 3000, disableOnInteraction: false }"
       navigation
       class="mySwiper"
     >

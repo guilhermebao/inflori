@@ -24,7 +24,7 @@
 
             <div class="mt-6">
               <img
-                src="/src/assets/img/img-2.jpg"
+                src="/src/assets/img/dor-dente.jpg"
                 alt=""
                 class="aspect-[5/2] w-full object-cover xl:rounded-3xl"
               />
